@@ -1,0 +1,16 @@
+# Default rules
+.DS_Store
+.Spotlight-V100
+Thumbs.db
+_*
+*.bak
+*.log
+*.tmp
+*.ori
+*~
+.env
+.venv
+.idea/
+.vscode/
+*.swp
+*.swo
